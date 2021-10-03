@@ -1,0 +1,108 @@
+pi_tables_imp.lo: pi_tables_imp.c /usr/include/stdc-predef.h \
+ ../../include/PI/pi.h ../../include/PI/pi_act_prof.h \
+ ../../include/PI/pi_tables.h ../../include/PI/pi_base.h \
+ /usr/lib/gcc/i686-linux-gnu/5/include/stdbool.h \
+ /usr/lib/gcc/i686-linux-gnu/5/include/stddef.h \
+ /usr/lib/gcc/i686-linux-gnu/5/include/stdint.h /usr/include/stdint.h \
+ /usr/include/features.h /usr/include/i386-linux-gnu/sys/cdefs.h \
+ /usr/include/i386-linux-gnu/bits/wordsize.h \
+ /usr/include/i386-linux-gnu/gnu/stubs.h \
+ /usr/include/i386-linux-gnu/gnu/stubs-32.h \
+ /usr/include/i386-linux-gnu/bits/wchar.h ../../include/PI/pi_value.h \
+ ../../include/PI/p4info.h ../../include/PI/p4info/act_profs.h \
+ ../../include/PI/pi_base.h ../../include/PI/p4info/actions.h \
+ ../../include/PI/p4info/counters.h ../../include/PI/p4info/digests.h \
+ ../../include/PI/p4info/meters.h ../../include/PI/p4info/tables.h \
+ /usr/include/assert.h ../../include/PI/pi_counter.h \
+ ../../include/PI/pi_meter.h ../../include/PI/pi_tables.h \
+ ../../include/PI/target/pi_tables_imp.h /usr/include/stdio.h \
+ /usr/include/i386-linux-gnu/bits/types.h \
+ /usr/include/i386-linux-gnu/bits/typesizes.h /usr/include/libio.h \
+ /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/i686-linux-gnu/5/include/stdarg.h \
+ /usr/include/i386-linux-gnu/bits/stdio_lim.h \
+ /usr/include/i386-linux-gnu/bits/sys_errlist.h \
+ /usr/include/i386-linux-gnu/bits/stdio.h \
+ /usr/include/i386-linux-gnu/bits/stdio2.h func_counter.h
+
+/usr/include/stdc-predef.h:
+
+../../include/PI/pi.h:
+
+../../include/PI/pi_act_prof.h:
+
+../../include/PI/pi_tables.h:
+
+../../include/PI/pi_base.h:
+
+/usr/lib/gcc/i686-linux-gnu/5/include/stdbool.h:
+
+/usr/lib/gcc/i686-linux-gnu/5/include/stddef.h:
+
+/usr/lib/gcc/i686-linux-gnu/5/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/i386-linux-gnu/sys/cdefs.h:
+
+/usr/include/i386-linux-gnu/bits/wordsize.h:
+
+/usr/include/i386-linux-gnu/gnu/stubs.h:
+
+/usr/include/i386-linux-gnu/gnu/stubs-32.h:
+
+/usr/include/i386-linux-gnu/bits/wchar.h:
+
+../../include/PI/pi_value.h:
+
+../../include/PI/p4info.h:
+
+../../include/PI/p4info/act_profs.h:
+
+../../include/PI/pi_base.h:
+
+../../include/PI/p4info/actions.h:
+
+../../include/PI/p4info/counters.h:
+
+../../include/PI/p4info/digests.h:
+
+../../include/PI/p4info/meters.h:
+
+../../include/PI/p4info/tables.h:
+
+/usr/include/assert.h:
+
+../../include/PI/pi_counter.h:
+
+../../include/PI/pi_meter.h:
+
+../../include/PI/pi_tables.h:
+
+../../include/PI/target/pi_tables_imp.h:
+
+/usr/include/stdio.h:
+
+/usr/include/i386-linux-gnu/bits/types.h:
+
+/usr/include/i386-linux-gnu/bits/typesizes.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/usr/lib/gcc/i686-linux-gnu/5/include/stdarg.h:
+
+/usr/include/i386-linux-gnu/bits/stdio_lim.h:
+
+/usr/include/i386-linux-gnu/bits/sys_errlist.h:
+
+/usr/include/i386-linux-gnu/bits/stdio.h:
+
+/usr/include/i386-linux-gnu/bits/stdio2.h:
+
+func_counter.h:

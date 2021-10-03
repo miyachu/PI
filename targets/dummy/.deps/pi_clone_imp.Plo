@@ -1,0 +1,43 @@
+pi_clone_imp.lo: pi_clone_imp.c /usr/include/stdc-predef.h \
+ ../../include/PI/pi_clone.h ../../include/PI/pi_base.h \
+ /usr/lib/gcc/i686-linux-gnu/5/include/stdbool.h \
+ /usr/lib/gcc/i686-linux-gnu/5/include/stddef.h \
+ /usr/lib/gcc/i686-linux-gnu/5/include/stdint.h /usr/include/stdint.h \
+ /usr/include/features.h /usr/include/i386-linux-gnu/sys/cdefs.h \
+ /usr/include/i386-linux-gnu/bits/wordsize.h \
+ /usr/include/i386-linux-gnu/gnu/stubs.h \
+ /usr/include/i386-linux-gnu/gnu/stubs-32.h \
+ /usr/include/i386-linux-gnu/bits/wchar.h ../../include/PI/pi_mc.h \
+ ../../include/PI/target/pi_clone_imp.h func_counter.h
+
+/usr/include/stdc-predef.h:
+
+../../include/PI/pi_clone.h:
+
+../../include/PI/pi_base.h:
+
+/usr/lib/gcc/i686-linux-gnu/5/include/stdbool.h:
+
+/usr/lib/gcc/i686-linux-gnu/5/include/stddef.h:
+
+/usr/lib/gcc/i686-linux-gnu/5/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/i386-linux-gnu/sys/cdefs.h:
+
+/usr/include/i386-linux-gnu/bits/wordsize.h:
+
+/usr/include/i386-linux-gnu/gnu/stubs.h:
+
+/usr/include/i386-linux-gnu/gnu/stubs-32.h:
+
+/usr/include/i386-linux-gnu/bits/wchar.h:
+
+../../include/PI/pi_mc.h:
+
+../../include/PI/target/pi_clone_imp.h:
+
+func_counter.h:

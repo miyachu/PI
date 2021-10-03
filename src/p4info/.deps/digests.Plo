@@ -1,0 +1,169 @@
+p4info/digests.lo: p4info/digests.c /usr/include/stdc-predef.h \
+ ../include/PI/p4info/digests.h ../include/PI/pi_base.h \
+ /usr/lib/gcc/i686-linux-gnu/5/include/stdbool.h \
+ /usr/lib/gcc/i686-linux-gnu/5/include/stddef.h \
+ /usr/lib/gcc/i686-linux-gnu/5/include/stdint.h /usr/include/stdint.h \
+ /usr/include/features.h /usr/include/i386-linux-gnu/sys/cdefs.h \
+ /usr/include/i386-linux-gnu/bits/wordsize.h \
+ /usr/include/i386-linux-gnu/gnu/stubs.h \
+ /usr/include/i386-linux-gnu/gnu/stubs-32.h \
+ /usr/include/i386-linux-gnu/bits/wchar.h ../include/PI/int/pi_int.h \
+ ../include/PI/pi.h ../include/PI/pi_act_prof.h ../include/PI/pi_tables.h \
+ ../include/PI/pi_base.h ../include/PI/pi_value.h ../include/PI/p4info.h \
+ ../include/PI/p4info/act_profs.h ../include/PI/p4info/actions.h \
+ ../include/PI/p4info/counters.h ../include/PI/p4info/digests.h \
+ ../include/PI/p4info/meters.h ../include/PI/p4info/tables.h \
+ /usr/include/assert.h ../include/PI/pi_counter.h \
+ ../include/PI/pi_meter.h ../include/PI/pi_tables.h p4info/digests_int.h \
+ p4info/p4info_common.h p4info/p4info_struct.h ../lib/vector.h \
+ p4info/p4info_common.h p4info/p4info_name_map.h \
+ ../third_party/cJSON/include/cJSON/cJSON.h /usr/include/stdlib.h \
+ /usr/include/i386-linux-gnu/bits/waitflags.h \
+ /usr/include/i386-linux-gnu/bits/waitstatus.h /usr/include/endian.h \
+ /usr/include/i386-linux-gnu/bits/endian.h \
+ /usr/include/i386-linux-gnu/bits/byteswap.h \
+ /usr/include/i386-linux-gnu/bits/types.h \
+ /usr/include/i386-linux-gnu/bits/typesizes.h \
+ /usr/include/i386-linux-gnu/bits/byteswap-16.h \
+ /usr/include/i386-linux-gnu/sys/types.h /usr/include/time.h \
+ /usr/include/i386-linux-gnu/sys/select.h \
+ /usr/include/i386-linux-gnu/bits/select.h \
+ /usr/include/i386-linux-gnu/bits/sigset.h \
+ /usr/include/i386-linux-gnu/bits/time.h \
+ /usr/include/i386-linux-gnu/bits/select2.h \
+ /usr/include/i386-linux-gnu/sys/sysmacros.h \
+ /usr/include/i386-linux-gnu/bits/pthreadtypes.h /usr/include/alloca.h \
+ /usr/include/i386-linux-gnu/bits/stdlib-bsearch.h \
+ /usr/include/i386-linux-gnu/bits/stdlib-float.h \
+ /usr/include/i386-linux-gnu/bits/stdlib.h /usr/include/string.h \
+ /usr/include/xlocale.h /usr/include/i386-linux-gnu/bits/string.h \
+ /usr/include/i386-linux-gnu/bits/string2.h \
+ /usr/include/i386-linux-gnu/bits/string3.h
+
+/usr/include/stdc-predef.h:
+
+../include/PI/p4info/digests.h:
+
+../include/PI/pi_base.h:
+
+/usr/lib/gcc/i686-linux-gnu/5/include/stdbool.h:
+
+/usr/lib/gcc/i686-linux-gnu/5/include/stddef.h:
+
+/usr/lib/gcc/i686-linux-gnu/5/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/i386-linux-gnu/sys/cdefs.h:
+
+/usr/include/i386-linux-gnu/bits/wordsize.h:
+
+/usr/include/i386-linux-gnu/gnu/stubs.h:
+
+/usr/include/i386-linux-gnu/gnu/stubs-32.h:
+
+/usr/include/i386-linux-gnu/bits/wchar.h:
+
+../include/PI/int/pi_int.h:
+
+../include/PI/pi.h:
+
+../include/PI/pi_act_prof.h:
+
+../include/PI/pi_tables.h:
+
+../include/PI/pi_base.h:
+
+../include/PI/pi_value.h:
+
+../include/PI/p4info.h:
+
+../include/PI/p4info/act_profs.h:
+
+../include/PI/p4info/actions.h:
+
+../include/PI/p4info/counters.h:
+
+../include/PI/p4info/digests.h:
+
+../include/PI/p4info/meters.h:
+
+../include/PI/p4info/tables.h:
+
+/usr/include/assert.h:
+
+../include/PI/pi_counter.h:
+
+../include/PI/pi_meter.h:
+
+../include/PI/pi_tables.h:
+
+p4info/digests_int.h:
+
+p4info/p4info_common.h:
+
+p4info/p4info_struct.h:
+
+../lib/vector.h:
+
+p4info/p4info_common.h:
+
+p4info/p4info_name_map.h:
+
+../third_party/cJSON/include/cJSON/cJSON.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/i386-linux-gnu/bits/waitflags.h:
+
+/usr/include/i386-linux-gnu/bits/waitstatus.h:
+
+/usr/include/endian.h:
+
+/usr/include/i386-linux-gnu/bits/endian.h:
+
+/usr/include/i386-linux-gnu/bits/byteswap.h:
+
+/usr/include/i386-linux-gnu/bits/types.h:
+
+/usr/include/i386-linux-gnu/bits/typesizes.h:
+
+/usr/include/i386-linux-gnu/bits/byteswap-16.h:
+
+/usr/include/i386-linux-gnu/sys/types.h:
+
+/usr/include/time.h:
+
+/usr/include/i386-linux-gnu/sys/select.h:
+
+/usr/include/i386-linux-gnu/bits/select.h:
+
+/usr/include/i386-linux-gnu/bits/sigset.h:
+
+/usr/include/i386-linux-gnu/bits/time.h:
+
+/usr/include/i386-linux-gnu/bits/select2.h:
+
+/usr/include/i386-linux-gnu/sys/sysmacros.h:
+
+/usr/include/i386-linux-gnu/bits/pthreadtypes.h:
+
+/usr/include/alloca.h:
+
+/usr/include/i386-linux-gnu/bits/stdlib-bsearch.h:
+
+/usr/include/i386-linux-gnu/bits/stdlib-float.h:
+
+/usr/include/i386-linux-gnu/bits/stdlib.h:
+
+/usr/include/string.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/i386-linux-gnu/bits/string.h:
+
+/usr/include/i386-linux-gnu/bits/string2.h:
+
+/usr/include/i386-linux-gnu/bits/string3.h:

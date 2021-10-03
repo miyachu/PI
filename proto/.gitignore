@@ -1,0 +1,5 @@
+cpp_out
+grpc_out
+py_out
+proto_files.ts
+sysrepo/install_yangs.sh
